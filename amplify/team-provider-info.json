@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-koreanproject-staging-161020-authRole",
+      "UnauthRoleArn": "arn:aws:iam::293553278349:role/amplify-koreanproject-staging-161020-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::293553278349:role/amplify-koreanproject-staging-161020-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-koreanproject-staging-161020-deployment",
+      "UnauthRoleName": "amplify-koreanproject-staging-161020-unauthRole",
+      "StackName": "amplify-koreanproject-staging-161020",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:293553278349:stack/amplify-koreanproject-staging-161020/70ec8610-9681-11ed-8f2c-0adcd408bf76",
+      "AmplifyAppId": "d34xqcie4r3l7k"
+    }
+  }
+}
